@@ -157,7 +157,7 @@ button.mfp-arrow {
   background-color: transparent !important; }
 
 .bg-gray {
-  background-color: #ff8d9914 !important }
+  background-color: white !important }
 
 textarea:focus,
 input:focus {
@@ -647,16 +647,18 @@ margin-top: 6rem}
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-footer-widget .social-info a {
           margin-right: 5px; } }
+
       .single-footer-widget .social-info a.facebook {
-        background-color: #0673e8a3; }
-      .single-footer-widget .social-info a.twitter {
-        background-color: #03baeb; }
-      .single-footer-widget .social-info a.google-plus {
-        background-color: #e80606a3; }
-      .single-footer-widget .social-info a.instagram {
-        background-color: #7406e8a3; }
-      .single-footer-widget .social-info a:focus, .single-footer-widget .social-info a:hover {
         background-color: #ff8d99; }
+      .single-footer-widget .social-info a.linkedin {
+        background-color: #ff8d99; }
+      .single-footer-widget .social-info a.instagram {
+        background-color: #ff8d99; }
+
+      .single-footer-widget .social-info a:focus, .single-footer-widget .social-info a:hover {
+        background-color: #f8b0b6; }
+               
+        
   .single-footer-widget .contact-address p {
     margin-bottom: 8px; }
     .single-footer-widget .contact-address p:last-child {
@@ -914,7 +916,7 @@ margin-top: 6rem}
       background-color: #4b62b3; }
     .akame-post-share a.twitter {
       background-color: #03baeb; }
-    .akame-post-share a.google-plus {
+    .akame-post-share a.linkedin {
       background-color: #cb242e; }
     .akame-post-share a.instagram {
       background-color: #057ad7; }
@@ -977,7 +979,7 @@ margin-top: 6rem}
       background-color: #4b62b3; }
     .post-author-area .author-social-info a.twitter {
       background-color: #03baeb; }
-    .post-author-area .author-social-info a.google-plus {
+    .post-author-area .author-social-info a.linkedin {
       background-color: #cb242e; }
     .post-author-area .author-social-info a:hover, .post-author-area .author-social-info a:focus {
       background-color: #ff8d99; }
