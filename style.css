@@ -1389,7 +1389,7 @@ margin-top: 6rem}
     bottom: 0;
     right: 0;
     z-index: -1;
-    background-color: #f6f9f9; }
+    background-color: #ffffff; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .akame--video--area::before {
         height: 70%; } }
